@@ -9,5 +9,7 @@ The unanimous Declaration of the thirteen united States of America
 
 vCards - Perpetual representatives for your contacts list. To be added later.
 
+[Declaration_Engrav_Pg1of1_AC.f8f8102de9d5796228811c52ee08f52f.jpg
+](https://github.com/freedom-foundation/The-unanimous-Declaration-of-the-thirteen-united-States-of-America/blob/main/Declaration_Engrav_Pg1of1_AC.f8f8102de9d5796228811c52ee08f52f.jpg) - This is the photo of the original declaration. Written in stone. [DATE]
 
 The unanimous Declaration of the thirteen united States of America has priority to be archived in both [ASCII](https://github.com/freedom-foundation/ASCII-format-for-Network-Interchange) wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then crptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
